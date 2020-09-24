@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.kish.learn
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [ annotation-api, app-name, cache-ehcache, data, data-jdbc, docker, file-watch, gradle, h2, http-client, jdbc-hikari, jib, kotest, kotlin, kotlin-application, logback, management, micrometer, micrometer-prometheus, readme, security, security-annotations, tomcat-server, tracing-zipkin, yaml ]
